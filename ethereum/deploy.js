@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-    'social trash hat south snow silent honey level frozen coyote system mule',
+    'Use your secret phrase here',
     'https://rinkeby.infura.io/v3/892ea09a671746fda74b02f56809cecb',
 );
 
